@@ -8,6 +8,13 @@ A collaborative Arduino robot controller using five digital line-sensor inputs a
 
 ![Supplied Robopuff prototype photograph showing a wheeled chassis, ultrasonic module and servo.](images/line-follower.jpg)
 
+## Video Demonstration
+
+The following video demonstrates the robot's
+operation during the project.
+
+[Watch the Robot Demonstration](line%20follower%20robot.mp4)
+
 ## Objectives
 
 - Five sensor inputs
